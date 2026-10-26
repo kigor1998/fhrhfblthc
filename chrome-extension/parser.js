@@ -46,6 +46,10 @@ const SERVICE_LABELS = new Set([
 // (raid mode, rank, quest giver, bundle tier, ...) is shown as a plain badge.
 const ITEM_LABEL_RE =
   /blueprint|material|\bkeys?\b|\bitems?\b|weapon|\bparts?\b|ships?|stencils?|designs?|ammo|quick use|augment|shield|attachments?|duck|\bmods?\b/i;
+// "Key options: Use my own key" is a service choice, not a key item.
+function isItemLabel(label) {
+  return ITEM_LABEL_RE.test(label) && !/\boptions?$/.test(label);
+}
 // "Queen Kill + All Loot", "Assessor + Vaporizer": "+" inside these values is not an item separator.
 const NO_PLUS_SPLIT_LABELS = new Set([
   "boosting options",
@@ -1311,7 +1315,7 @@ function parseLine(line, index, options = {}) {
     }
 
     let found = resolveAmplified(findMatches(text, index), normalize(text));
-    if (!found.length && !coinHandled && (!chunkLabel || ITEM_LABEL_RE.test(chunkLabel.label))) {
+    if (!found.length && !coinHandled && (!chunkLabel || isItemLabel(chunkLabel.label))) {
       const corrected = fuzzyCorrect(text, index);
       if (corrected) {
         text = corrected;
@@ -1325,7 +1329,7 @@ function parseLine(line, index, options = {}) {
           continue;
         }
         // Service fields ("Raid mode: Night Raid", "Current rank: Wildcard II") are not items.
-        if (chunkLabel && chunkLabel.value && !ITEM_LABEL_RE.test(chunkLabel.label)) {
+        if (chunkLabel && chunkLabel.value && !isItemLabel(chunkLabel.label)) {
           out.push({ meta: { type: "option", text: `${chunkLabel.raw}: ${chunkLabel.value}` } });
           mode = null;
           continue;
