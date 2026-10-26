@@ -1,0 +1,95 @@
+{
+  "source": [
+    "https://skycoach.gg/arc-raiders-boost/products/workshop-leveling-8158",
+    "https://skycoach.gg/arc-raiders-boost/products/outpost-upgrade-11309",
+    "https://skycoach.gg/arc-raiders-boost/products/outpost-unlock-11313"
+  ],
+  "benches": {
+    "scrappy": {
+      "min": 1,
+      "max": 5,
+      "steps": [
+        1.5,
+        1.5,
+        1.5,
+        1.5
+      ]
+    },
+    "gunsmith": {
+      "min": 0,
+      "max": 4,
+      "steps": [
+        2,
+        2.5,
+        3,
+        5
+      ]
+    },
+    "gear-bench": {
+      "min": 0,
+      "max": 3,
+      "steps": [
+        1.5,
+        2,
+        2.5
+      ]
+    },
+    "medical-lab": {
+      "min": 0,
+      "max": 3,
+      "steps": [
+        1.5,
+        2,
+        2.5
+      ]
+    },
+    "explosives-station": {
+      "min": 0,
+      "max": 3,
+      "steps": [
+        1.5,
+        2,
+        2.5
+      ]
+    },
+    "utility-station": {
+      "min": 0,
+      "max": 3,
+      "steps": [
+        1.5,
+        2,
+        2.5
+      ]
+    },
+    "refiner": {
+      "min": 0,
+      "max": 3,
+      "steps": [
+        1.5,
+        2,
+        2.5
+      ]
+    },
+    "research-station": {
+      "min": 1,
+      "max": 4,
+      "steps": [
+        5,
+        7,
+        9
+      ],
+      "unlock": 5
+    },
+    "outpost": {
+      "min": 1,
+      "max": 4,
+      "steps": [
+        8,
+        11,
+        15
+      ],
+      "full": 30.5,
+      "unlock": 15.2
+    }
+  }
+}

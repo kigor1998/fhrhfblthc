@@ -1,0 +1,14 @@
+# Public repo: only what GitHub Actions needs to rebuild the data.
+# The extension UI (content.js, popup, background, manifest) and saved skycoach pages stay local.
+/*
+!/.gitignore
+!/.github/
+!/tools/
+/tools/build-extension-assets.js
+!/chrome-extension/
+/chrome-extension/*
+!/chrome-extension/parser.js
+!/chrome-extension/*.json
+/chrome-extension/manifest.json
+!/chrome-extension/assets/
+.DS_Store

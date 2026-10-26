@@ -1,0 +1,680 @@
+{
+  "anvil": {
+    "name": "Anvil",
+    "craft": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 2
+      },
+      {
+        "id": "hand-drill",
+        "qty": 3
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 3
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 3
+      }
+    ]
+  },
+  "aphelion": {
+    "name": "Aphelion",
+    "craft": [
+      {
+        "id": "complex-gun-parts",
+        "qty": 3
+      },
+      {
+        "id": "magnetic-accelerator",
+        "qty": 3
+      },
+      {
+        "id": "matriarch-reactor",
+        "qty": 1
+      }
+    ],
+    "upgrade": []
+  },
+  "arpeggio": {
+    "name": "Arpeggio",
+    "craft": [
+      {
+        "id": "mechanical-components",
+        "qty": 6
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 6
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "mechanical-components",
+        "qty": 14
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 1
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 2
+      }
+    ]
+  },
+  "bantam": {
+    "name": "Bantam",
+    "craft": [
+      {
+        "id": "mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 4
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "mechanical-components",
+        "qty": 10
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 2
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 1
+      }
+    ]
+  },
+  "bettina": {
+    "name": "Bettina",
+    "craft": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 3
+      },
+      {
+        "id": "canister",
+        "qty": 3
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 3
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 6
+      }
+    ]
+  },
+  "bobcat": {
+    "name": "Bobcat",
+    "craft": [
+      {
+        "id": "exodus-modules",
+        "qty": 2
+      },
+      {
+        "id": "light-gun-parts",
+        "qty": 3
+      },
+      {
+        "id": "magnetic-accelerator",
+        "qty": 1
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 6
+      },
+      {
+        "id": "light-gun-parts",
+        "qty": 7
+      }
+    ]
+  },
+  "burletta": {
+    "name": "Burletta",
+    "craft": [
+      {
+        "id": "mechanical-components",
+        "qty": 3
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 3
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "mechanical-components",
+        "qty": 10
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 2
+      },
+      {
+        "id": "light-gun-parts",
+        "qty": 1
+      }
+    ]
+  },
+  "canto": {
+    "name": "Canto",
+    "craft": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 2
+      },
+      {
+        "id": "magnet",
+        "qty": 5
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 3
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 6
+      }
+    ]
+  },
+  "dolabra": {
+    "name": "Dolabra",
+    "craft": [
+      {
+        "id": "magnetic-accelerator",
+        "qty": 3
+      },
+      {
+        "id": "shredder-gyro",
+        "qty": 3
+      },
+      {
+        "id": "vaporizer-regulator",
+        "qty": 2
+      }
+    ],
+    "upgrade": []
+  },
+  "equalizer": {
+    "name": "Equalizer",
+    "craft": [
+      {
+        "id": "complex-gun-parts",
+        "qty": 3
+      },
+      {
+        "id": "magnetic-accelerator",
+        "qty": 3
+      },
+      {
+        "id": "queen-reactor",
+        "qty": 1
+      }
+    ],
+    "upgrade": []
+  },
+  "ferro": {
+    "name": "Ferro",
+    "craft": [
+      {
+        "id": "metal-parts",
+        "qty": 5
+      },
+      {
+        "id": "rubber-parts-recipe",
+        "qty": 2
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "metal-parts",
+        "qty": 16
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 2
+      },
+      {
+        "id": "mechanical-components",
+        "qty": 1
+      }
+    ]
+  },
+  "hairpin": {
+    "name": "Hairpin",
+    "craft": [
+      {
+        "id": "metal-parts",
+        "qty": 2
+      },
+      {
+        "id": "plastic-parts",
+        "qty": 5
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "metal-parts",
+        "qty": 17
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 2
+      },
+      {
+        "id": "mechanical-components",
+        "qty": 1
+      }
+    ]
+  },
+  "hullcracker": {
+    "name": "Hullcracker",
+    "craft": [
+      {
+        "id": "exodus-modules",
+        "qty": 1
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 3
+      },
+      {
+        "id": "magnetic-accelerator",
+        "qty": 1
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 5
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 6
+      }
+    ]
+  },
+  "il toro": {
+    "name": "Il Toro",
+    "craft": [
+      {
+        "id": "mechanical-components",
+        "qty": 5
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 6
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "mechanical-components",
+        "qty": 11
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 1
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 2
+      }
+    ]
+  },
+  "jupiter": {
+    "name": "Jupiter",
+    "craft": [
+      {
+        "id": "complex-gun-parts",
+        "qty": 3
+      },
+      {
+        "id": "magnetic-accelerator",
+        "qty": 3
+      },
+      {
+        "id": "queen-reactor",
+        "qty": 1
+      }
+    ],
+    "upgrade": []
+  },
+  "kettle": {
+    "name": "Kettle",
+    "craft": [
+      {
+        "id": "metal-parts",
+        "qty": 6
+      },
+      {
+        "id": "rubber-parts-recipe",
+        "qty": 8
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "metal-parts",
+        "qty": 18
+      },
+      {
+        "id": "plastic-parts",
+        "qty": 10
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 2
+      },
+      {
+        "id": "mechanical-components",
+        "qty": 3
+      }
+    ]
+  },
+  "osprey": {
+    "name": "Osprey",
+    "craft": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 2
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 3
+      },
+      {
+        "id": "wires-recipe",
+        "qty": 7
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 6
+      }
+    ]
+  },
+  "rascal": {
+    "name": "Rascal",
+    "craft": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 2
+      },
+      {
+        "id": "canister",
+        "qty": 5
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 3
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 6
+      }
+    ]
+  },
+  "rattler": {
+    "name": "Rattler",
+    "craft": [
+      {
+        "id": "metal-parts",
+        "qty": 16
+      },
+      {
+        "id": "rubber-parts-recipe",
+        "qty": 12
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "metal-parts",
+        "qty": 10
+      },
+      {
+        "id": "rubber-parts-recipe",
+        "qty": 10
+      },
+      {
+        "id": "mechanical-components",
+        "qty": 6
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 2
+      }
+    ]
+  },
+  "renegade": {
+    "name": "Renegade",
+    "craft": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 2
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 3
+      },
+      {
+        "id": "oil",
+        "qty": 5
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 6
+      }
+    ]
+  },
+  "stiletto": {
+    "name": "Stiletto",
+    "craft": [
+      {
+        "id": "mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 4
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "mechanical-components",
+        "qty": 10
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 2
+      },
+      {
+        "id": "light-gun-parts",
+        "qty": 1
+      }
+    ]
+  },
+  "stitcher": {
+    "name": "Stitcher",
+    "craft": [
+      {
+        "id": "metal-parts",
+        "qty": 8
+      },
+      {
+        "id": "rubber-parts-recipe",
+        "qty": 4
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "metal-parts",
+        "qty": 18
+      },
+      {
+        "id": "rubber-parts-recipe",
+        "qty": 12
+      },
+      {
+        "id": "simple-gun-parts",
+        "qty": 2
+      },
+      {
+        "id": "mechanical-components",
+        "qty": 3
+      }
+    ]
+  },
+  "tempest": {
+    "name": "Tempest",
+    "craft": [
+      {
+        "id": "exodus-modules",
+        "qty": 2
+      },
+      {
+        "id": "magnetic-accelerator",
+        "qty": 1
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 3
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 6
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 7
+      }
+    ]
+  },
+  "torrente": {
+    "name": "Torrente",
+    "craft": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 2
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 3
+      },
+      {
+        "id": "spring",
+        "qty": 6
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 6
+      }
+    ]
+  },
+  "venator": {
+    "name": "Venator",
+    "craft": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 2
+      },
+      {
+        "id": "magnet",
+        "qty": 5
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 3
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 4
+      },
+      {
+        "id": "medium-gun-parts",
+        "qty": 6
+      }
+    ]
+  },
+  "vulcano": {
+    "name": "Vulcano",
+    "craft": [
+      {
+        "id": "exodus-modules",
+        "qty": 1
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 3
+      },
+      {
+        "id": "magnetic-accelerator",
+        "qty": 1
+      }
+    ],
+    "upgrade": [
+      {
+        "id": "advanced-mechanical-components",
+        "qty": 5
+      },
+      {
+        "id": "heavy-gun-parts",
+        "qty": 6
+      }
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "scrappy",
+    "name": "Scrappy",
+    "maxLevel": 6,
+    "levels": {
+      "1": [],
+      "2": [
+        {
+          "id": "dog-collar",
+          "qty": 1
+        }
+      ],
+      "3": [
+        {
+          "id": "lemon",
+          "qty": 3
+        },
+        {
+          "id": "apricot",
+          "qty": 3
+        }
+      ],
+      "4": [
+        {
+          "id": "prickly-pear",
+          "qty": 6
+        },
+        {
+          "id": "olives",
+          "qty": 6
+        },
+        {
+          "id": "cat-bed",
+          "qty": 1
+        }
+      ],
+      "5": [
+        {
+          "id": "mushroom",
+          "qty": 12
+        },
+        {
+          "id": "apricot",
+          "qty": 12
+        },
+        {
+          "id": "very-comfortable-pillow",
+          "qty": 3
+        }
+      ],
+      "6": []
+    }
+  },
+  {
+    "id": "weapon-bench",
+    "name": "Gunsmith",
+    "maxLevel": 4,
+    "levels": {
+      "1": [
+        {
+          "id": "metal-parts",
+          "qty": 20
+        },
+        {
+          "id": "rubber-parts-recipe",
+          "qty": 30
+        }
+      ],
+      "2": [
+        {
+          "id": "rusted-tools",
+          "qty": 3
+        },
+        {
+          "id": "mechanical-components",
+          "qty": 5
+        },
+        {
+          "id": "wasp-driver",
+          "qty": 8
+        }
+      ],
+      "3": [
+        {
+          "id": "rusted-gear",
+          "qty": 3
+        },
+        {
+          "id": "advanced-mechanical-components",
+          "qty": 5
+        },
+        {
+          "id": "sentinel-part",
+          "qty": 4
+        }
+      ],
+      "4": [
+        {
+          "id": "radial-press",
+          "qty": 3
+        },
+        {
+          "id": "magnetic-accelerator",
+          "qty": 3
+        },
+        {
+          "id": "emperor-modulator",
+          "qty": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "equipment-bench",
+    "name": "Gear Bench",
+    "maxLevel": 3,
+    "levels": {
+      "1": [
+        {
+          "id": "plastic-parts",
+          "qty": 25
+        },
+        {
+          "id": "fabric",
+          "qty": 30
+        }
+      ],
+      "2": [
+        {
+          "id": "power-cable",
+          "qty": 3
+        },
+        {
+          "id": "electrical-components",
+          "qty": 5
+        },
+        {
+          "id": "hornet-driver",
+          "qty": 5
+        }
+      ],
+      "3": [
+        {
+          "id": "industrial-battery",
+          "qty": 3
+        },
+        {
+          "id": "advanced-electrical-components",
+          "qty": 5
+        },
+        {
+          "id": "bastion-part",
+          "qty": 6
+        }
+      ]
+    }
+  },
+  {
+    "id": "med-station",
+    "name": "Medical Lab",
+    "maxLevel": 3,
+    "levels": {
+      "1": [
+        {
+          "id": "fabric",
+          "qty": 50
+        },
+        {
+          "id": "arc-alloy",
+          "qty": 6
+        }
+      ],
+      "2": [
+        {
+          "id": "cracked-bioscanner",
+          "qty": 2
+        },
+        {
+          "id": "durable-cloth",
+          "qty": 5
+        },
+        {
+          "id": "tick-pod",
+          "qty": 8
+        }
+      ],
+      "3": [
+        {
+          "id": "rusted-shut-medical-kit",
+          "qty": 3
+        },
+        {
+          "id": "antiseptic",
+          "qty": 8
+        },
+        {
+          "id": "surveyor-vault",
+          "qty": 5
+        }
+      ]
+    }
+  },
+  {
+    "id": "explosives-bench",
+    "name": "Explosives Station",
+    "maxLevel": 3,
+    "levels": {
+      "1": [
+        {
+          "id": "chemicals",
+          "qty": 50
+        },
+        {
+          "id": "arc-alloy",
+          "qty": 6
+        }
+      ],
+      "2": [
+        {
+          "id": "synthesized-fuel",
+          "qty": 3
+        },
+        {
+          "id": "crude-explosives",
+          "qty": 5
+        },
+        {
+          "id": "pop-trigger",
+          "qty": 5
+        }
+      ],
+      "3": [
+        {
+          "id": "laboratory-reagents",
+          "qty": 3
+        },
+        {
+          "id": "explosive-compound",
+          "qty": 5
+        },
+        {
+          "id": "rocketeer-part",
+          "qty": 3
+        }
+      ]
+    }
+  },
+  {
+    "id": "utility-bench",
+    "name": "Utility Station",
+    "maxLevel": 3,
+    "levels": {
+      "1": [
+        {
+          "id": "plastic-parts",
+          "qty": 50
+        },
+        {
+          "id": "arc-alloy",
+          "qty": 6
+        }
+      ],
+      "2": [
+        {
+          "id": "damaged-heat-sink",
+          "qty": 2
+        },
+        {
+          "id": "electrical-components",
+          "qty": 5
+        },
+        {
+          "id": "snitch-scanner",
+          "qty": 6
+        }
+      ],
+      "3": [
+        {
+          "id": "fried-motherboard",
+          "qty": 3
+        },
+        {
+          "id": "advanced-electrical-components",
+          "qty": 5
+        },
+        {
+          "id": "leaper-pulse-unit",
+          "qty": 4
+        }
+      ]
+    }
+  },
+  {
+    "id": "refiner",
+    "name": "Refiner",
+    "maxLevel": 3,
+    "levels": {
+      "1": [
+        {
+          "id": "metal-parts",
+          "qty": 60
+        },
+        {
+          "id": "arc-powercell",
+          "qty": 5
+        }
+      ],
+      "2": [
+        {
+          "id": "toaster",
+          "qty": 3
+        },
+        {
+          "id": "arc-motion-core",
+          "qty": 5
+        },
+        {
+          "id": "fireball-burner",
+          "qty": 8
+        }
+      ],
+      "3": [
+        {
+          "id": "motor",
+          "qty": 3
+        },
+        {
+          "id": "arc-circuitry",
+          "qty": 10
+        },
+        {
+          "id": "bombardier-cell",
+          "qty": 6
+        }
+      ]
+    }
+  },
+  {
+    "id": "research-station",
+    "name": "Research Station",
+    "maxLevel": 4,
+    "levels": {
+      "1": [
+        {
+          "id": "planks",
+          "qty": 35
+        },
+        {
+          "id": "battered-paperback",
+          "qty": 5
+        },
+        {
+          "id": "mini-pump",
+          "qty": 3
+        }
+      ],
+      "2": [
+        {
+          "id": "calculator",
+          "qty": 3
+        },
+        {
+          "id": "raider-logbook",
+          "qty": 3
+        },
+        {
+          "id": "skulker-targeter",
+          "qty": 5
+        }
+      ],
+      "3": [
+        {
+          "id": "differential-microphone",
+          "qty": 3
+        },
+        {
+          "id": "exodus-technical-handbook",
+          "qty": 3
+        },
+        {
+          "id": "bully-fragmenter",
+          "qty": 6
+        }
+      ],
+      "4": [
+        {
+          "id": "thermal-shaker",
+          "qty": 3
+        },
+        {
+          "id": "arc-data-module",
+          "qty": 3
+        },
+        {
+          "id": "frigate-inductor",
+          "qty": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": "outpost",
+    "name": "Outpost",
+    "maxLevel": 4,
+    "levels": {
+      "1": [],
+      "2": [
+        {
+          "id": "steel-cable",
+          "qty": 3
+        },
+        {
+          "id": "sheet-metal",
+          "qty": 20
+        },
+        {
+          "id": "cable-stripper",
+          "qty": 3
+        }
+      ],
+      "3": [
+        {
+          "id": "epoxy-bucket",
+          "qty": 3
+        },
+        {
+          "id": "planks",
+          "qty": 35
+        },
+        {
+          "id": "hand-drill",
+          "qty": 3
+        }
+      ],
+      "4": [
+        {
+          "id": "sheet-metal",
+          "qty": 40
+        },
+        {
+          "id": "laser-level",
+          "qty": 3
+        },
+        {
+          "id": "insulation-roll",
+          "qty": 3
+        }
+      ]
+    }
+  }
+]
