@@ -21,7 +21,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/acoustic-guitar.webp",
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": [
       "Guitar"
     ]
@@ -276,7 +276,7 @@
     "icon_file": "assets/icons/amplified-anvil.png",
     "amp_base": "anvil",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -325,7 +325,7 @@
     "icon_file": "assets/icons/amplified-aphelion.png",
     "amp_base": "aphelion",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -696,7 +696,7 @@
     "amp_mods": [
       "full auto"
     ],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -746,7 +746,7 @@
     "icon_file": "assets/icons/amplified-canto.png",
     "amp_base": "canto",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -798,7 +798,7 @@
       "incendiary rounds",
       "carbine conversion"
     ],
-    "price": 5.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -816,7 +816,7 @@
       "incendiary rounds",
       "sprint shooting"
     ],
-    "price": 7.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -833,7 +833,7 @@
     "amp_mods": [
       "sprint shooting"
     ],
-    "price": 5.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -935,7 +935,7 @@
       "ramping damage",
       "bigger mag"
     ],
-    "price": 7.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1149,7 +1149,7 @@
       "more reload",
       "slug rounds"
     ],
-    "price": 5.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1181,7 +1181,7 @@
     "icon_file": "assets/icons/amplified-jupiter.png",
     "amp_base": "jupiter",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1355,7 +1355,7 @@
       "anti shield",
       "full auto"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -1438,7 +1438,7 @@
     "amp_mods": [
       "ergonomic bolt"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1697,7 +1697,7 @@
       "more reload",
       "drum mag"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1734,7 +1734,7 @@
       "more reload",
       "incendiary rounds"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1766,7 +1766,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 4.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1784,7 +1784,7 @@
       "more reload",
       "scoped"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -2531,7 +2531,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/barstool-design.png",
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -4627,7 +4627,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/diner-ceiling-lamp-design.png",
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -4653,7 +4653,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/diner-shelf-design.png",
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -5859,7 +5859,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/floor-lamp-design.png",
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -6697,7 +6697,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/hullcracker-blueprint.webp",
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -11092,7 +11092,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/study-armchair-design-res-armchair-01-a.png",
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": [
       "Study Armchair (Legendary) Design"
     ]
@@ -11226,7 +11226,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/sturdy-faculty-chair-design.png",
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -11265,7 +11265,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/sturdy-lab-cabinet-wide-design.png",
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -12259,7 +12259,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/venetian-dresser-design.png",
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -12736,7 +12736,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/winter-table-design.png",
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
