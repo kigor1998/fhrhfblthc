@@ -276,7 +276,7 @@
     "icon_file": "assets/icons/amplified-anvil.png",
     "amp_base": "anvil",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -325,7 +325,7 @@
     "icon_file": "assets/icons/amplified-aphelion.png",
     "amp_base": "aphelion",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -398,7 +398,7 @@
       "charged burst",
       "increased burst"
     ],
-    "price": 8.98,
+    "price": 9.98,
     "variant_name": []
   },
   {
@@ -471,7 +471,7 @@
       "charged burst",
       "incendiary rounds"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -592,7 +592,7 @@
       "semi auto",
       "x rounds"
     ],
-    "price": 4.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -607,7 +607,7 @@
     "icon_file": "assets/icons/amplified-burletta.png",
     "amp_base": "burletta",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -679,7 +679,7 @@
       "burst fire",
       "sprint shooting"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -696,7 +696,7 @@
     "amp_mods": [
       "full auto"
     ],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -714,7 +714,7 @@
       "full auto",
       "sprint shooting"
     ],
-    "price": 2.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -746,7 +746,7 @@
     "icon_file": "assets/icons/amplified-canto.png",
     "amp_base": "canto",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -798,7 +798,7 @@
       "incendiary rounds",
       "carbine conversion"
     ],
-    "price": 3.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -935,7 +935,7 @@
       "ramping damage",
       "bigger mag"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -997,7 +997,7 @@
     "amp_mods": [
       "semi auto"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -1099,7 +1099,7 @@
     "amp_mods": [
       "mag reload"
     ],
-    "price": 3.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -1114,7 +1114,7 @@
     "icon_file": "assets/icons/amplified-il-toro.png",
     "amp_base": "il toro",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1166,7 +1166,7 @@
     "amp_mods": [
       "slug rounds"
     ],
-    "price": 4.98,
+    "price": 10.98,
     "variant_name": []
   },
   {
@@ -1181,7 +1181,7 @@
     "icon_file": "assets/icons/amplified-jupiter.png",
     "amp_base": "jupiter",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1645,7 +1645,7 @@
     "icon_file": "assets/icons/amplified-rattler.png",
     "amp_base": "rattler",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1662,7 +1662,7 @@
     "amp_mods": [
       "incendiary rounds"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -1697,7 +1697,7 @@
       "more reload",
       "drum mag"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -1734,7 +1734,7 @@
       "more reload",
       "incendiary rounds"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -1749,7 +1749,7 @@
     "icon_file": "assets/icons/amplified-renegade.png",
     "amp_base": "renegade",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1766,7 +1766,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 1.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1784,7 +1784,7 @@
       "more reload",
       "scoped"
     ],
-    "price": 4.98,
+    "price": 8.98,
     "variant_name": []
   },
   {
@@ -2042,7 +2042,7 @@
     "stack_size": 15,
     "ammo_type": "",
     "icon_file": "assets/icons/arc-alloy.webp",
-    "price": 0.0497,
+    "price": 0.0596,
     "variant_name": []
   },
   {
@@ -2081,7 +2081,7 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/arc-coolant.webp",
-    "price": 0.596,
+    "price": 0.298,
     "variant_name": []
   },
   {
@@ -2094,7 +2094,7 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/arc-data-module.png",
-    "price": 0.596,
+    "price": 0.298,
     "variant_name": []
   },
   {
@@ -2133,7 +2133,7 @@
     "stack_size": 5,
     "ammo_type": "",
     "icon_file": "assets/icons/arc-motion-core.webp",
-    "price": 0.0993,
+    "price": 0.149,
     "variant_name": []
   },
   {
@@ -2544,7 +2544,7 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/bastion-part.webp",
-    "price": 0.1987,
+    "price": 0.298,
     "variant_name": []
   },
   {
@@ -3159,7 +3159,7 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/bombardier-cell.webp",
-    "price": 0.2483,
+    "price": 0.596,
     "variant_name": []
   },
   {
@@ -4088,7 +4088,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/compensator-iii-recipe.webp",
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -4766,7 +4766,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/dolabra-blueprint.webp",
-    "price": 3.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -5290,7 +5290,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/extended-barrel.webp",
-    "price": 0.9933,
+    "price": 1.49,
     "variant_name": [
       "Extended Barrel"
     ]
@@ -5317,7 +5317,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/extended-barrel-ii.webp",
-    "price": 0.9933,
+    "price": 1.49,
     "variant_name": []
   },
   {
@@ -5785,7 +5785,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/fireworks-box-blueprint.webp",
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -5934,7 +5934,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/fossilized-lightning.webp",
-    "price": 2.98,
+    "price": 0.9933,
     "variant_name": [
       "Fossilized Lighting"
     ]
@@ -6560,7 +6560,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/heavy-shield.webp",
-    "price": 0.4967,
+    "price": 0.745,
     "variant_name": []
   },
   {
@@ -6648,7 +6648,7 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/hornet-driver.webp",
-    "price": 0.298,
+    "price": 0.3725,
     "variant_name": []
   },
   {
@@ -7116,7 +7116,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/kinetic-converter.webp",
-    "price": 0.9933,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -7381,7 +7381,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/lightweight-stock.webp",
-    "price": 0.9933,
+    "price": 1.49,
     "variant_name": []
   },
   {
@@ -8319,7 +8319,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/padded-stock.webp",
-    "price": 0.9933,
+    "price": 1.49,
     "variant_name": []
   },
   {
@@ -10249,7 +10249,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/shotgun-choke-iii.webp",
-    "price": 0.9933,
+    "price": 1.49,
     "variant_name": []
   },
   {
@@ -10287,7 +10287,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/shotgun-silencer.webp",
-    "price": 0.9933,
+    "price": 1.49,
     "variant_name": []
   },
   {
@@ -10740,7 +10740,7 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/spotter-relay.webp",
-    "price": 0.3725,
+    "price": 0.596,
     "variant_name": []
   },
   {
@@ -10815,7 +10815,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/stable-stock-iii.webp",
-    "price": 0.9933,
+    "price": 1.49,
     "variant_name": []
   },
   {
@@ -12322,7 +12322,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/vertical-grip-iii.webp",
-    "price": 0.9933,
+    "price": 1.49,
     "variant_name": []
   },
   {
@@ -12749,7 +12749,7 @@
     "stack_size": 15,
     "ammo_type": "",
     "icon_file": "assets/icons/wires-recipe.webp",
-    "price": 0.0331,
+    "price": 0.0373,
     "variant_name": []
   },
   {
