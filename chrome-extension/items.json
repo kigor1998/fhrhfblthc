@@ -4666,7 +4666,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/diner-cupboard-design.png",
-    "price": 2.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -12145,7 +12145,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/tufted-sofa-design.png",
-    "price": 2.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -12369,7 +12369,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/venetian-dresser-design.png",
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
