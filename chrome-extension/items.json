@@ -209,7 +209,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/amplification-module-mk-i.png",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -222,7 +222,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/amplification-module-mk-ii.png",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -235,7 +235,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/amplification-module-mk-iii.png",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -248,7 +248,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/amplification-module-mk-iv.png",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -261,7 +261,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/amplification-module-mk-v.png",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -276,7 +276,7 @@
     "icon_file": "assets/icons/amplified-anvil.png",
     "amp_base": "anvil",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -293,7 +293,7 @@
     "amp_mods": [
       "anvil splitter"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -310,7 +310,7 @@
     "amp_mods": [
       "x rounds"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -325,7 +325,7 @@
     "icon_file": "assets/icons/amplified-aphelion.png",
     "amp_base": "aphelion",
     "amp_mods": [],
-    "price": 6.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -471,7 +471,7 @@
       "charged burst",
       "incendiary rounds"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -592,7 +592,7 @@
       "semi auto",
       "x rounds"
     ],
-    "price": 6.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -607,7 +607,7 @@
     "icon_file": "assets/icons/amplified-burletta.png",
     "amp_base": "burletta",
     "amp_mods": [],
-    "price": 4.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -679,7 +679,7 @@
       "burst fire",
       "sprint shooting"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -696,7 +696,7 @@
     "amp_mods": [
       "full auto"
     ],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -714,7 +714,7 @@
       "full auto",
       "sprint shooting"
     ],
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -746,7 +746,7 @@
     "icon_file": "assets/icons/amplified-canto.png",
     "amp_base": "canto",
     "amp_mods": [],
-    "price": 3.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -833,7 +833,7 @@
     "amp_mods": [
       "sprint shooting"
     ],
-    "price": 6.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -935,13 +935,13 @@
       "ramping damage",
       "bigger mag"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
     "id": "amplified-fragments",
     "name": "Amplified Fragments",
-    "name_ru": "",
+    "name_ru": "Усовершенствованные фрагменты",
     "item_type": "Topside Material",
     "rarity": "Epic",
     "value": 500,
@@ -980,7 +980,7 @@
     "amp_mods": [
       "incendiary rounds"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -997,7 +997,7 @@
     "amp_mods": [
       "semi auto"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1099,7 +1099,7 @@
     "amp_mods": [
       "mag reload"
     ],
-    "price": 5.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1114,7 +1114,7 @@
     "icon_file": "assets/icons/amplified-il-toro.png",
     "amp_base": "il toro",
     "amp_mods": [],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1149,7 +1149,7 @@
       "more reload",
       "slug rounds"
     ],
-    "price": 6.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1166,7 +1166,7 @@
     "amp_mods": [
       "slug rounds"
     ],
-    "price": 10.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1181,7 +1181,7 @@
     "icon_file": "assets/icons/amplified-jupiter.png",
     "amp_base": "jupiter",
     "amp_mods": [],
-    "price": 6.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1288,7 +1288,7 @@
       "scoped",
       "ergonomic bolt"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1355,7 +1355,7 @@
       "anti shield",
       "full auto"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1645,7 +1645,7 @@
     "icon_file": "assets/icons/amplified-rattler.png",
     "amp_base": "rattler",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1662,7 +1662,7 @@
     "amp_mods": [
       "incendiary rounds"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1697,7 +1697,7 @@
       "more reload",
       "drum mag"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1749,7 +1749,7 @@
     "icon_file": "assets/icons/amplified-renegade.png",
     "amp_base": "renegade",
     "amp_mods": [],
-    "price": 3.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1766,7 +1766,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1784,7 +1784,7 @@
       "more reload",
       "scoped"
     ],
-    "price": 8.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1801,7 +1801,7 @@
     "amp_mods": [
       "scoped"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1980,7 +1980,7 @@
   },
   {
     "id": "anvil-splitter",
-    "name": "Anvil Splitter",
+    "name": "Deprecated Anvil Splitter",
     "name_ru": "Разделитель Наковальни",
     "item_type": "Misc",
     "rarity": "Legendary",
@@ -1989,7 +1989,9 @@
     "ammo_type": "",
     "icon_file": "assets/icons/anvil-splitter.webp",
     "price": 0.7933,
-    "variant_name": []
+    "variant_name": [
+      "Anvil Splitter"
+    ]
   },
   {
     "id": "aphelion-rifle",
@@ -4012,7 +4014,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/combat-mk3-flanking.webp",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -4491,6 +4493,30 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/dart-board.webp",
+    "variant_name": []
+  },
+  {
+    "id": "dead-eye-outfit",
+    "name": "Dead Eye (Outfit)",
+    "name_ru": "",
+    "item_type": "Outfits",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/dead-eye-outfit.png",
+    "variant_name": []
+  },
+  {
+    "id": "dead-flowers",
+    "name": "Dead Flowers",
+    "name_ru": "Завядшие цветы",
+    "item_type": "Trinket",
+    "rarity": "Uncommon",
+    "value": 640,
+    "stack_size": 5,
+    "ammo_type": "",
+    "icon_file": "assets/icons/dead-flowers.png",
     "variant_name": []
   },
   {
@@ -5290,7 +5316,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/extended-barrel.webp",
-    "price": 1.49,
+    "price": 0.9933,
     "variant_name": [
       "Extended Barrel"
     ]
@@ -5785,7 +5811,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/fireworks-box-blueprint.webp",
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -5890,7 +5916,7 @@
   {
     "id": "fluted-rotor-core",
     "name": "Fluted Rotor Core",
-    "name_ru": "",
+    "name_ru": "Сердечник ротора с пазами",
     "item_type": "Topside Material",
     "rarity": "Epic",
     "value": 5000,
@@ -5987,7 +6013,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/frigate-diagnostic-node.png",
-    "price": 2.98,
+    "price": 1.49,
     "variant_name": []
   },
   {
@@ -7381,7 +7407,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/lightweight-stock.webp",
-    "price": 1.49,
+    "price": 0.9933,
     "variant_name": []
   },
   {
@@ -7407,6 +7433,18 @@
     "stack_size": 5,
     "ammo_type": "",
     "icon_file": "assets/icons/lil-smoke-grenade.webp",
+    "variant_name": []
+  },
+  {
+    "id": "lone-survivor-backpack",
+    "name": "Lone Survivor (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/lone-survivor-backpack.png",
     "variant_name": []
   },
   {
@@ -7443,7 +7481,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/looting-mk-3-cautious.webp",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -7656,6 +7694,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/marco-outfit.png",
+    "variant_name": []
+  },
+  {
+    "id": "mask-fragment",
+    "name": "Mask Fragment",
+    "name_ru": "Фрагмент маски",
+    "item_type": "Trinket",
+    "rarity": "Epic",
+    "value": 7000,
+    "stack_size": 3,
+    "ammo_type": "",
+    "icon_file": "assets/icons/mask-fragment.png",
     "variant_name": []
   },
   {
@@ -8073,6 +8123,18 @@
     "variant_name": []
   },
   {
+    "id": "noxious-outfit",
+    "name": "Noxious (Outfit)",
+    "name_ru": "",
+    "item_type": "Outfits",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/noxious-outfit.png",
+    "variant_name": []
+  },
+  {
     "id": "number-plate",
     "name": "Number Plate",
     "name_ru": "Номерной знак",
@@ -8107,6 +8169,18 @@
     "ammo_type": "",
     "icon_file": "assets/icons/ochre-stencil.png",
     "price": 2.98,
+    "variant_name": []
+  },
+  {
+    "id": "offering-display-table-design",
+    "name": "Offering Display Table Design",
+    "name_ru": "Схема — Стол для подношений",
+    "item_type": "Design",
+    "rarity": "Legendary",
+    "value": null,
+    "stack_size": 1,
+    "ammo_type": "",
+    "icon_file": "assets/icons/offering-display-table-design.png",
     "variant_name": []
   },
   {
@@ -8458,6 +8532,18 @@
     "variant_name": []
   },
   {
+    "id": "pilgrim-backpack",
+    "name": "Pilgrim (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/pilgrim-backpack.png",
+    "variant_name": []
+  },
+  {
     "id": "pilgrims-peak-security-code",
     "name": "Pilgrim's Peak Security Code",
     "name_ru": "Код безопасности Пилгримс Пик",
@@ -8521,7 +8607,7 @@
   {
     "id": "pneumatic-actuator",
     "name": "Pneumatic Actuator",
-    "name_ru": "",
+    "name_ru": "Пневмопривод",
     "item_type": "Topside Material",
     "rarity": "Epic",
     "value": 5000,
@@ -8795,7 +8881,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/powered-descender.webp",
-    "price": 1.49,
+    "price": 0.9933,
     "variant_name": []
   },
   {
@@ -8826,7 +8912,7 @@
   {
     "id": "pressure-regulator",
     "name": "Pressure Regulator",
-    "name_ru": "",
+    "name_ru": "Регулятор давления",
     "item_type": "Topside Material",
     "rarity": "Epic",
     "value": 5000,
@@ -8928,7 +9014,7 @@
   {
     "id": "propellant-valve-assembly",
     "name": "Propellant Valve Assembly",
-    "name_ru": "",
+    "name_ru": "Сборка топливного клапана",
     "item_type": "Topside Material",
     "rarity": "Epic",
     "value": 5000,
@@ -9110,6 +9196,18 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/raiders-refuge-security-code.webp",
+    "variant_name": []
+  },
+  {
+    "id": "railway-lantern",
+    "name": "Railway Lantern",
+    "name_ru": "Железнодорожный фонарь",
+    "item_type": "Trinket",
+    "rarity": "Rare",
+    "value": 3000,
+    "stack_size": 3,
+    "ammo_type": "",
+    "icon_file": "assets/icons/railway-lantern.png",
     "variant_name": []
   },
   {
@@ -9631,6 +9729,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/roamer-outfit.png",
+    "variant_name": []
+  },
+  {
+    "id": "rock-salt",
+    "name": "Rock Salt",
+    "name_ru": "Каменная соль",
+    "item_type": "Trinket",
+    "rarity": "Uncommon",
+    "value": 640,
+    "stack_size": 5,
+    "ammo_type": "",
+    "icon_file": "assets/icons/rock-salt.png",
     "variant_name": []
   },
   {
@@ -10168,7 +10278,7 @@
   {
     "id": "sheet-metal",
     "name": "Sheet Metal",
-    "name_ru": "",
+    "name_ru": "Листы металла",
     "item_type": "Basic Material",
     "rarity": "Common",
     "value": 100,
@@ -10313,7 +10423,7 @@
     "stack_size": 5,
     "ammo_type": "",
     "icon_file": "assets/icons/showstopper.webp",
-    "price": 0.596,
+    "price": 0.298,
     "variant_name": []
   },
   {
@@ -11493,7 +11603,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/tactical-mk-3-healing.webp",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -11506,7 +11616,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/tactical-mk-3-revival.webp",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -11532,7 +11642,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/tactical-mk-3-smoke.webp",
-    "price": 0.596,
+    "price": 0.4967,
     "variant_name": []
   },
   {
@@ -11718,7 +11828,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/tether-launcher.png",
-    "price": 2.98,
+    "price": 0.9933,
     "variant_name": []
   },
   {
@@ -12322,7 +12432,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/vertical-grip-iii.webp",
-    "price": 1.49,
+    "price": 0.9933,
     "variant_name": []
   },
   {
@@ -12373,7 +12483,7 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/vita-shot.webp",
-    "price": 0.3311,
+    "price": 0.298,
     "variant_name": []
   },
   {
@@ -12762,7 +12872,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/wolfpack.webp",
-    "price": 0.596,
+    "price": 0.298,
     "variant_name": []
   },
   {
@@ -12826,7 +12936,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/yank-grenade-blueprint.png",
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
