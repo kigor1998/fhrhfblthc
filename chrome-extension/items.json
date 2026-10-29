@@ -5645,6 +5645,18 @@
     "variant_name": []
   },
   {
+    "id": "fancy-plate",
+    "name": "Fancy Plate",
+    "name_ru": "Красивая тарелка",
+    "item_type": "Trinket",
+    "rarity": "Epic",
+    "value": 7000,
+    "stack_size": 3,
+    "ammo_type": "",
+    "icon_file": "assets/icons/fancy-plate.png",
+    "variant_name": []
+  },
+  {
     "id": "ferro-i",
     "name": "Ferro I",
     "name_ru": "Ферро I",
