@@ -4216,6 +4216,18 @@
     "variant_name": []
   },
   {
+    "id": "conductor-hat",
+    "name": "Conductor Hat (Scrappy Outfit)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/conductor-hat.png",
+    "variant_name": []
+  },
+  {
     "id": "console-chest-design",
     "name": "Console Chest Design",
     "name_ru": "Схема терминального сундука",
@@ -4288,6 +4300,30 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/cosmo-outfit.png",
+    "variant_name": []
+  },
+  {
+    "id": "counter-backpack-charm",
+    "name": "Counter (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/counter-backpack-charm.png",
+    "variant_name": []
+  },
+  {
+    "id": "cowbell-backpack-charm",
+    "name": "Cowbell (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/cowbell-backpack-charm.png",
     "variant_name": []
   },
   {
@@ -4639,6 +4675,18 @@
     "ammo_type": "",
     "icon_file": "assets/icons/deadline-blueprint.webp",
     "price": 2.98,
+    "variant_name": []
+  },
+  {
+    "id": "deadwire-helmet",
+    "name": "Deadwire Helmet (Scrappy Outfit)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/deadwire-helmet.png",
     "variant_name": []
   },
   {
@@ -6344,6 +6392,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-1121696354",
+    "name": "Pink Rabbit's Foot (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1121696354.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-1124937991",
     "name": "Face 17 (Face)",
     "name_ru": "",
@@ -6428,6 +6488,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-1171633768",
+    "name": "Passenger (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1171633768.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-1177897024",
     "name": "Hit Chest (Emote)",
     "name_ru": "",
@@ -6440,6 +6512,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-11848669",
+    "name": "Pirate Hat (Scrappy Outfit)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-11848669.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-1218474767",
     "name": "Binoculars (Backpack Charm)",
     "name_ru": "",
@@ -6449,6 +6533,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-1218474767.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-1235104166",
+    "name": "Cornicello (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1235104166.png",
     "variant_name": []
   },
   {
@@ -6488,6 +6584,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-1275837188",
+    "name": "Needs A Shower (Emote)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1275837188.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-1282584552",
     "name": "Boo (Emote)",
     "name_ru": "",
@@ -6497,6 +6605,30 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-1282584552.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-1304498649",
+    "name": "Craftsman (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1304498649.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-1322617791",
+    "name": "Curly Short (Hair)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1322617791.png",
     "variant_name": []
   },
   {
@@ -6545,6 +6677,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-1343271787.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-1347465776",
+    "name": "Nutrient Tube (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1347465776.png",
     "variant_name": []
   },
   {
@@ -6644,6 +6788,30 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-1483730433",
+    "name": "No (Emote)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1483730433.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-152824312",
+    "name": "Nomad Jug (Backpack Attachment)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-152824312.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-1535162451",
     "name": "Rainy Day Hat (Scrappy Outfit)",
     "name_ru": "",
@@ -6692,6 +6860,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-1582041750",
+    "name": "Painted Mask Black (Face Style)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1582041750.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-159531742",
     "name": "Hose (Backpack Attachment)",
     "name_ru": "",
@@ -6725,6 +6905,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-1612998293.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-1613216690",
+    "name": "Computer Mouse (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1613216690.png",
     "variant_name": []
   },
   {
@@ -6785,6 +6977,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-1703909321.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-1735710050",
+    "name": "Airtight Container (Backpack Attachment)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1735710050.png",
     "variant_name": []
   },
   {
@@ -6884,6 +7088,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-1842264655",
+    "name": "Pocket Radar (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1842264655.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-1845388826",
     "name": "Lip Scar (Face Style)",
     "name_ru": "",
@@ -6905,6 +7121,30 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-1850185457.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-1864921346",
+    "name": "Courier (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1864921346.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-186997349",
+    "name": "Place Flag (Emote)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-186997349.png",
     "variant_name": []
   },
   {
@@ -7004,6 +7244,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-1978741826",
+    "name": "Curtain Fade (Hair)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-1978741826.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-1980044539",
     "name": "Ayam Cemani (Scrappy Appearance)",
     "name_ru": "",
@@ -7049,6 +7301,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-2014334926.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-2024309669",
+    "name": "Mutton Chops (Facial Hair)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-2024309669.png",
     "variant_name": []
   },
   {
@@ -7196,6 +7460,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-2129583258",
+    "name": "Cowboy Hat (Scrappy Outfit)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-2129583258.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-2130418374",
     "name": "Middle Fade (Hair)",
     "name_ru": "",
@@ -7205,6 +7481,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-2130418374.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-2141318844",
+    "name": "Depth Gauge (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-2141318844.png",
     "variant_name": []
   },
   {
@@ -7253,6 +7541,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-231923225.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-236474731",
+    "name": "Curly Mullet (Hair)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-236474731.png",
     "variant_name": []
   },
   {
@@ -7448,6 +7748,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-458653832",
+    "name": "Diver Helmet (Scrappy Outfit)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-458653832.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-460071158",
     "name": "Green Eye Stripe (Face Style)",
     "name_ru": "",
@@ -7628,6 +7940,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-601727408",
+    "name": "Pilot Helmet (Scrappy Outfit)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-601727408.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-603418267",
     "name": "Angry (Emote)",
     "name_ru": "",
@@ -7709,6 +8033,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-7092746.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-717506671",
+    "name": "Dirt Full (Face Style)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-717506671.png",
     "variant_name": []
   },
   {
@@ -7805,6 +8141,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-789243574.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-797242666",
+    "name": "Afro Fade (Hair)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-797242666.png",
     "variant_name": []
   },
   {
@@ -7940,6 +8288,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-879219255",
+    "name": "Don't Shoot (Emote)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-879219255.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-886197932",
     "name": "Field Kitchen (Backpack Attachment)",
     "name_ru": "",
@@ -8012,6 +8372,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-939712037",
+    "name": "Dirt Spray (Face Style)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-939712037.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-951322671",
     "name": "Fist Shakes (Emote)",
     "name_ru": "",
@@ -8081,6 +8453,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n1019848832.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n1021321019",
+    "name": "Oil Splatter (Face Style)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1021321019.png",
     "variant_name": []
   },
   {
@@ -8168,6 +8552,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n1177265000",
+    "name": "Agriculturalist (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1177265000.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n1187017172",
     "name": "Shark Bite (Face Style)",
     "name_ru": "",
@@ -8213,6 +8609,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n1213451322.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n121809421",
+    "name": "Pocket Extinguisher (Backpack Attachment)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n121809421.png",
     "variant_name": []
   },
   {
@@ -8372,6 +8780,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n1490908444",
+    "name": "Deer Skull (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1490908444.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n1504118640",
     "name": "Speckled (Scrappy Appearance)",
     "name_ru": "",
@@ -8432,6 +8852,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n1619694199",
+    "name": "Diving Bell (Emote)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1619694199.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n1633960101",
     "name": "Pumped Dance (Emote)",
     "name_ru": "",
@@ -8453,6 +8885,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n1639787022.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n1640069353",
+    "name": "Paramedic (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1640069353.png",
     "variant_name": []
   },
   {
@@ -8576,6 +9020,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n1719394577",
+    "name": "Conch Shell (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1719394577.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n1721654068",
     "name": "Soccer Finals Ticket (Backpack Charm)",
     "name_ru": "",
@@ -8597,6 +9053,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n1739608943.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n1744266696",
+    "name": "Pillows (Backpack Attachment)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1744266696.png",
     "variant_name": []
   },
   {
@@ -8657,6 +9125,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n1816511586.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n1818071978",
+    "name": "Curly Ponytail (Hair)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1818071978.png",
     "variant_name": []
   },
   {
@@ -8765,6 +9245,42 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n1896442731.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n1913787639",
+    "name": "Painted Mask (Face Style)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1913787639.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n191842298",
+    "name": "Adventurer (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n191842298.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n1928249183",
+    "name": "Origin (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n1928249183.png",
     "variant_name": []
   },
   {
@@ -8897,6 +9413,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n2064468470.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n2075859127",
+    "name": "Acne Scar (Face Style)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n2075859127.png",
     "variant_name": []
   },
   {
@@ -9080,6 +9608,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n313532347",
+    "name": "Cultist (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n313532347.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n341295132",
     "name": "Face 02 (Face)",
     "name_ru": "",
@@ -9164,6 +9704,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n389457683",
+    "name": "Neutral Makeup (Face Style)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n389457683.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n394233447",
     "name": "Military Paint (Face Style)",
     "name_ru": "",
@@ -9185,6 +9737,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n40690569.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n449275775",
+    "name": "Diver (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n449275775.png",
     "variant_name": []
   },
   {
@@ -9248,6 +9812,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n482188352",
+    "name": "Pager (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n482188352.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n516654195",
     "name": "Floppy Disk (Backpack Charm)",
     "name_ru": "",
@@ -9257,6 +9833,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n516654195.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n517869445",
+    "name": "Picnic Basket (Backpack Attachment)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n517869445.png",
     "variant_name": []
   },
   {
@@ -9320,6 +9908,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n566533135",
+    "name": "Diving Goggles (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n566533135.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n568636219",
     "name": "Gas Canister (Backpack Attachment)",
     "name_ru": "",
@@ -9353,6 +9953,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n580824538.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n588820206",
+    "name": "Pointing Dance (Emote)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n588820206.png",
     "variant_name": []
   },
   {
@@ -9440,6 +10052,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n744393353",
+    "name": "Nose Stripe (Face Style)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n744393353.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n766288644",
     "name": "Full Beard (Facial Hair)",
     "name_ru": "",
@@ -9464,6 +10088,18 @@
     "variant_name": []
   },
   {
+    "id": "game-cosmetic-n775997320",
+    "name": "Pathfinder (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n775997320.png",
+    "variant_name": []
+  },
+  {
     "id": "game-cosmetic-n785704548",
     "name": "Fling Coin (Emote)",
     "name_ru": "",
@@ -9473,6 +10109,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n785704548.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n796990719",
+    "name": "Origami (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n796990719.png",
     "variant_name": []
   },
   {
@@ -9593,6 +10241,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/game-cosmetic-n8843796.png",
+    "variant_name": []
+  },
+  {
+    "id": "game-cosmetic-n922026955",
+    "name": "Peace (Emote)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/game-cosmetic-n922026955.png",
     "variant_name": []
   },
   {
@@ -11891,6 +12551,18 @@
     "variant_name": []
   },
   {
+    "id": "now-listen-here-you-emote",
+    "name": "Now listen here you (Emote)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/now-listen-here-you-emote.png",
+    "variant_name": []
+  },
+  {
     "id": "noxious-outfit",
     "name": "Noxious (Outfit)",
     "name_ru": "",
@@ -12152,6 +12824,18 @@
     "variant_name": []
   },
   {
+    "id": "oxygen-respirator-backpack-attachment",
+    "name": "Oxygen Respirator (Backpack Attachment)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/oxygen-respirator-backpack-attachment.png",
+    "variant_name": []
+  },
+  {
     "id": "padded-stock",
     "name": "Padded Stock",
     "name_ru": "Мягкий приклад",
@@ -12239,6 +12923,18 @@
     "variant_name": []
   },
   {
+    "id": "peace-emote",
+    "name": "Peace (Emote)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/peace-emote.png",
+    "variant_name": []
+  },
+  {
     "id": "pendola-pass-observatory-key",
     "name": "Pendola Pass Observatory Key",
     "name_ru": "Ключ от обсерватории на перевале Пендолы",
@@ -12321,6 +13017,18 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/pilgrims-peak-security-code.webp",
+    "variant_name": []
+  },
+  {
+    "id": "pirate-hat-black-yellow",
+    "name": "Pirate Hat - Black Yellow (Scrappy Outfit)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/pirate-hat-black-yellow.png",
     "variant_name": []
   },
   {
