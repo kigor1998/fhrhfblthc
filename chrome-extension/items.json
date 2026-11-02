@@ -276,7 +276,7 @@
     "icon_file": "assets/icons/amplified-anvil.png",
     "amp_base": "anvil",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 0.98,
     "variant_name": []
   },
   {
@@ -592,7 +592,7 @@
       "semi auto",
       "x rounds"
     ],
-    "price": 5.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -798,7 +798,7 @@
       "incendiary rounds",
       "carbine conversion"
     ],
-    "price": 4.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -833,7 +833,7 @@
     "amp_mods": [
       "sprint shooting"
     ],
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -865,7 +865,7 @@
     "amp_mods": [
       "anti weak point"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1099,7 +1099,7 @@
     "amp_mods": [
       "mag reload"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1114,7 +1114,7 @@
     "icon_file": "assets/icons/amplified-il-toro.png",
     "amp_base": "il toro",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1149,7 +1149,7 @@
       "more reload",
       "slug rounds"
     ],
-    "price": 4.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1166,7 +1166,7 @@
     "amp_mods": [
       "slug rounds"
     ],
-    "price": 2.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1181,7 +1181,7 @@
     "icon_file": "assets/icons/amplified-jupiter.png",
     "amp_base": "jupiter",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1288,7 +1288,7 @@
       "scoped",
       "ergonomic bolt"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -1716,7 +1716,7 @@
       "drum mag",
       "incendiary rounds"
     ],
-    "price": 9.98,
+    "price": 8.98,
     "variant_name": []
   },
   {
@@ -1766,7 +1766,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1784,7 +1784,7 @@
       "more reload",
       "scoped"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1801,7 +1801,7 @@
     "amp_mods": [
       "scoped"
     ],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -5580,7 +5580,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/extended-light-mag-iii-recipe.webp",
-    "price": 2.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -6232,7 +6232,7 @@
     "stack_size": 5,
     "ammo_type": "",
     "icon_file": "assets/icons/fruit-mix.webp",
-    "price": 0.298,
+    "price": 0.598,
     "variant_name": []
   },
   {
@@ -11925,7 +11925,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/looting-mk-3-survivor-blueprint.webp",
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -16461,7 +16461,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/tether-launcher-blueprint.png",
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
