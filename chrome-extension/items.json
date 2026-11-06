@@ -276,7 +276,7 @@
     "icon_file": "assets/icons/amplified-anvil.png",
     "amp_base": "anvil",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -310,7 +310,7 @@
     "amp_mods": [
       "x rounds"
     ],
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -325,7 +325,7 @@
     "icon_file": "assets/icons/amplified-aphelion.png",
     "amp_base": "aphelion",
     "amp_mods": [],
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -453,7 +453,7 @@
     "amp_mods": [
       "charged burst"
     ],
-    "price": 8.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -471,7 +471,7 @@
       "charged burst",
       "incendiary rounds"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -557,7 +557,7 @@
     "amp_mods": [
       "bigger mag"
     ],
-    "price": 8.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -592,7 +592,7 @@
       "semi auto",
       "x rounds"
     ],
-    "price": 4.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -679,7 +679,7 @@
       "burst fire",
       "sprint shooting"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -696,7 +696,7 @@
     "amp_mods": [
       "full auto"
     ],
-    "price": 2.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -714,7 +714,7 @@
       "full auto",
       "sprint shooting"
     ],
-    "price": 2.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -746,7 +746,7 @@
     "icon_file": "assets/icons/amplified-canto.png",
     "amp_base": "canto",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -798,7 +798,7 @@
       "incendiary rounds",
       "carbine conversion"
     ],
-    "price": 2.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -833,7 +833,7 @@
     "amp_mods": [
       "sprint shooting"
     ],
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -865,7 +865,7 @@
     "amp_mods": [
       "anti weak point"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -935,7 +935,7 @@
       "ramping damage",
       "bigger mag"
     ],
-    "price": 6.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -980,7 +980,7 @@
     "amp_mods": [
       "incendiary rounds"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -997,7 +997,7 @@
     "amp_mods": [
       "semi auto"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1015,7 +1015,7 @@
       "semi auto",
       "sprint shooting"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -1064,7 +1064,7 @@
     "amp_mods": [
       "incendiary grenades"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -1099,7 +1099,7 @@
     "amp_mods": [
       "mag reload"
     ],
-    "price": 1.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1114,7 +1114,7 @@
     "icon_file": "assets/icons/amplified-il-toro.png",
     "amp_base": "il toro",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1149,7 +1149,7 @@
       "more reload",
       "slug rounds"
     ],
-    "price": 2.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1166,7 +1166,7 @@
     "amp_mods": [
       "slug rounds"
     ],
-    "price": 3.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -1320,7 +1320,7 @@
     "icon_file": "assets/icons/amplified-kettle.png",
     "amp_base": "kettle",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1438,7 +1438,7 @@
     "amp_mods": [
       "ergonomic bolt"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -1491,7 +1491,7 @@
       "tracker rounds",
       "ergonomic bolt"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -1645,7 +1645,7 @@
     "icon_file": "assets/icons/amplified-rattler.png",
     "amp_base": "rattler",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1679,7 +1679,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1716,7 +1716,7 @@
       "drum mag",
       "incendiary rounds"
     ],
-    "price": 8.98,
+    "price": 9.98,
     "variant_name": []
   },
   {
@@ -1766,7 +1766,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 1.98,
+    "price": 13.98,
     "variant_name": []
   },
   {
@@ -1784,7 +1784,7 @@
       "more reload",
       "scoped"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -1801,7 +1801,7 @@
     "amp_mods": [
       "scoped"
     ],
-    "price": 1.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -3479,7 +3479,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/buried-city-town-hall-key.webp",
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": [
       "buried city town hall"
     ]
@@ -4186,7 +4186,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/compensator-iii-recipe.webp",
-    "price": 2.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -4439,7 +4439,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/dam-controlled-access-zone-key.webp",
-    "price": 2.98,
+    "price": 4.98,
     "variant_name": [
       "Dam Controlled Access Key"
     ]
@@ -4467,7 +4467,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/dam-surveillance-key.webp",
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -4949,7 +4949,7 @@
     "stack_size": 15,
     "ammo_type": "",
     "icon_file": "assets/icons/doodly-duck.webp",
-    "price": 1.49,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -10425,7 +10425,7 @@
     "stack_size": 15,
     "ammo_type": "",
     "icon_file": "assets/icons/gentle-duck.webp",
-    "price": 1.49,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -10958,7 +10958,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/horizontal-grip.webp",
-    "price": 0.9933,
+    "price": 1.49,
     "variant_name": []
   },
   {
@@ -14138,7 +14138,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/riven-tides-crane-house-keycard.webp",
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -14499,7 +14499,7 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/rusted-bolts.webp",
-    "price": 0.4967,
+    "price": 0.596,
     "variant_name": []
   },
   {
@@ -15359,7 +15359,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/spaceport-container-storage-key.webp",
-    "price": 0.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -15701,7 +15701,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/stiletto-blueprint.png",
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
