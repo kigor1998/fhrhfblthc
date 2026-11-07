@@ -325,7 +325,7 @@
     "icon_file": "assets/icons/amplified-aphelion.png",
     "amp_base": "aphelion",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -557,7 +557,7 @@
     "amp_mods": [
       "bigger mag"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -592,7 +592,7 @@
       "semi auto",
       "x rounds"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -624,7 +624,7 @@
     "amp_mods": [
       "burst fire"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -865,7 +865,7 @@
     "amp_mods": [
       "anti weak point"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -980,7 +980,7 @@
     "amp_mods": [
       "incendiary rounds"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -1082,7 +1082,7 @@
       "incendiary grenades",
       "mag reload"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1114,7 +1114,7 @@
     "icon_file": "assets/icons/amplified-il-toro.png",
     "amp_base": "il toro",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1166,7 +1166,7 @@
     "amp_mods": [
       "slug rounds"
     ],
-    "price": 5.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1216,7 +1216,7 @@
       "bigger mag",
       "scoped"
     ],
-    "price": 8.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -1438,7 +1438,7 @@
     "amp_mods": [
       "ergonomic bolt"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1491,7 +1491,7 @@
       "tracker rounds",
       "ergonomic bolt"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1766,7 +1766,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 13.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -1784,7 +1784,7 @@
       "more reload",
       "scoped"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1801,7 +1801,7 @@
     "amp_mods": [
       "scoped"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -2470,7 +2470,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/bantam-blueprint.png",
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -3453,7 +3453,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/buried-city-jkv-employee-access-card.webp",
-    "price": 0.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -4439,7 +4439,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/dam-controlled-access-zone-key.webp",
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": [
       "Dam Controlled Access Key"
     ]
@@ -4454,7 +4454,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/dam-staff-room-key.webp",
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -5581,7 +5581,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/extended-light-mag-iii-recipe.webp",
-    "price": 4.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -14151,7 +14151,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/riven-tides-hotel-keycard-no-102.webp",
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -14933,7 +14933,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/shotgun-choke-iii-recipe.webp",
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -15359,7 +15359,7 @@
     "stack_size": 1,
     "ammo_type": "",
     "icon_file": "assets/icons/spaceport-container-storage-key.webp",
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
