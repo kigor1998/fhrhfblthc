@@ -310,7 +310,7 @@
     "amp_mods": [
       "x rounds"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -453,7 +453,7 @@
     "amp_mods": [
       "charged burst"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -471,7 +471,7 @@
       "charged burst",
       "incendiary rounds"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -592,7 +592,7 @@
       "semi auto",
       "x rounds"
     ],
-    "price": 6.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -679,7 +679,7 @@
       "burst fire",
       "sprint shooting"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -696,7 +696,7 @@
     "amp_mods": [
       "full auto"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -714,7 +714,7 @@
       "full auto",
       "sprint shooting"
     ],
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -816,7 +816,7 @@
       "incendiary rounds",
       "sprint shooting"
     ],
-    "price": 4.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -833,7 +833,7 @@
     "amp_mods": [
       "sprint shooting"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -865,7 +865,7 @@
     "amp_mods": [
       "anti weak point"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -980,7 +980,7 @@
     "amp_mods": [
       "incendiary rounds"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1015,7 +1015,7 @@
       "semi auto",
       "sprint shooting"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1064,7 +1064,7 @@
     "amp_mods": [
       "incendiary grenades"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1099,7 +1099,7 @@
     "amp_mods": [
       "mag reload"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1114,7 +1114,7 @@
     "icon_file": "assets/icons/amplified-il-toro.png",
     "amp_base": "il toro",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1149,7 +1149,7 @@
       "more reload",
       "slug rounds"
     ],
-    "price": 4.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1166,7 +1166,7 @@
     "amp_mods": [
       "slug rounds"
     ],
-    "price": 3.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1305,7 +1305,7 @@
     "amp_mods": [
       "ergonomic bolt"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1456,7 +1456,7 @@
       "ergonomic bolt",
       "anti weak point"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1716,7 +1716,7 @@
       "drum mag",
       "incendiary rounds"
     ],
-    "price": 9.98,
+    "price": 8.98,
     "variant_name": []
   },
   {
@@ -1766,7 +1766,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 5.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
