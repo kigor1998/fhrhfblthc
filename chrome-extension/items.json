@@ -453,7 +453,7 @@
     "amp_mods": [
       "charged burst"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -592,7 +592,7 @@
       "semi auto",
       "x rounds"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -607,7 +607,7 @@
     "icon_file": "assets/icons/amplified-burletta.png",
     "amp_base": "burletta",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -746,7 +746,7 @@
     "icon_file": "assets/icons/amplified-canto.png",
     "amp_base": "canto",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1099,7 +1099,7 @@
     "amp_mods": [
       "mag reload"
     ],
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1149,7 +1149,7 @@
       "more reload",
       "slug rounds"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1166,7 +1166,7 @@
     "amp_mods": [
       "slug rounds"
     ],
-    "price": 4.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1288,7 +1288,7 @@
       "scoped",
       "ergonomic bolt"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1749,7 +1749,7 @@
     "icon_file": "assets/icons/amplified-renegade.png",
     "amp_base": "renegade",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1766,7 +1766,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
