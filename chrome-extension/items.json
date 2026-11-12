@@ -293,7 +293,7 @@
     "amp_mods": [
       "anvil splitter"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -310,7 +310,7 @@
     "amp_mods": [
       "x rounds"
     ],
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -453,7 +453,7 @@
     "amp_mods": [
       "charged burst"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -489,7 +489,7 @@
       "charged burst",
       "increased burst"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -592,7 +592,7 @@
       "semi auto",
       "x rounds"
     ],
-    "price": 5.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -714,7 +714,7 @@
       "full auto",
       "sprint shooting"
     ],
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -746,7 +746,7 @@
     "icon_file": "assets/icons/amplified-canto.png",
     "amp_base": "canto",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -798,7 +798,7 @@
       "incendiary rounds",
       "carbine conversion"
     ],
-    "price": 4.98,
+    "price": 5.98,
     "variant_name": []
   },
   {
@@ -833,7 +833,7 @@
     "amp_mods": [
       "sprint shooting"
     ],
-    "price": 2.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -1149,7 +1149,7 @@
       "more reload",
       "slug rounds"
     ],
-    "price": 2.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1253,7 +1253,7 @@
       "bigger mag",
       "ergonomic bolt"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1784,7 +1784,7 @@
       "more reload",
       "scoped"
     ],
-    "price": 4.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
