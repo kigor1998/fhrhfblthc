@@ -489,7 +489,7 @@
       "charged burst",
       "increased burst"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -798,7 +798,7 @@
       "incendiary rounds",
       "carbine conversion"
     ],
-    "price": 5.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -816,7 +816,7 @@
       "incendiary rounds",
       "sprint shooting"
     ],
-    "price": 3.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -833,7 +833,7 @@
     "amp_mods": [
       "sprint shooting"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1149,7 +1149,7 @@
       "more reload",
       "slug rounds"
     ],
-    "price": 4.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
