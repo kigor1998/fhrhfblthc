@@ -2401,6 +2401,18 @@
     "variant_name": []
   },
   {
+    "id": "bandit-backpack",
+    "name": "Bandit (Backpack)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/bandit-backpack.png",
+    "variant_name": []
+  },
+  {
     "id": "banjo",
     "name": "Banjo",
     "name_ru": "Банджо",
@@ -10551,6 +10563,18 @@
     "variant_name": []
   },
   {
+    "id": "golden-olive-stencil",
+    "name": "Golden Olive Stencil",
+    "name_ru": "",
+    "item_type": "Stencil",
+    "rarity": "Uncommon",
+    "value": 5000,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/golden-olive-stencil.png",
+    "variant_name": []
+  },
+  {
     "id": "gothic-graffiti-aviator-color",
     "name": "Gothic Graffiti (Aviator Color)",
     "name_ru": "",
@@ -12078,6 +12102,18 @@
     "variant_name": []
   },
   {
+    "id": "malocchio-stencil",
+    "name": "Malocchio Stencil",
+    "name_ru": "",
+    "item_type": "Stencil",
+    "rarity": "Epic",
+    "value": 5000,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/malocchio-stencil.png",
+    "variant_name": []
+  },
+  {
     "id": "marano-market-buisness-card",
     "name": "Marano Market Business Card",
     "name_ru": "Визитка рынка Марано",
@@ -12537,6 +12573,18 @@
     "stack_size": null,
     "ammo_type": "",
     "icon_file": "assets/icons/nascosto-outfit.png",
+    "variant_name": []
+  },
+  {
+    "id": "nessuno-outfit",
+    "name": "Nessuno (Outfit)",
+    "name_ru": "",
+    "item_type": "Outfits",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/nessuno-outfit.png",
     "variant_name": []
   },
   {
@@ -13524,6 +13572,18 @@
     "ammo_type": "",
     "icon_file": "assets/icons/pulse-mine-blueprint.webp",
     "price": 2.98,
+    "variant_name": []
+  },
+  {
+    "id": "pump-oiler-backpack-charm",
+    "name": "Pump Oiler (Backpack Charm)",
+    "name_ru": "",
+    "item_type": "Cosmetic",
+    "rarity": "",
+    "value": null,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/pump-oiler-backpack-charm.png",
     "variant_name": []
   },
   {
@@ -16089,6 +16149,18 @@
     "variant_name": []
   },
   {
+    "id": "sundog-stencil",
+    "name": "Sundog Stencil",
+    "name_ru": "",
+    "item_type": "Stencil",
+    "rarity": "Legendary",
+    "value": 5000,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/sundog-stencil.png",
+    "variant_name": []
+  },
+  {
     "id": "surge-coil",
     "name": "Surge Coil",
     "name_ru": "Токовая катушка",
@@ -16351,6 +16423,18 @@
     "stack_size": 3,
     "ammo_type": "",
     "icon_file": "assets/icons/tattered-clothes.webp",
+    "variant_name": []
+  },
+  {
+    "id": "taurus-stencil",
+    "name": "Taurus Stencil",
+    "name_ru": "",
+    "item_type": "Stencil",
+    "rarity": "Epic",
+    "value": 5000,
+    "stack_size": null,
+    "ammo_type": "",
+    "icon_file": "assets/icons/taurus-stencil.png",
     "variant_name": []
   },
   {
