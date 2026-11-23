@@ -293,7 +293,7 @@
     "amp_mods": [
       "anvil splitter"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -471,7 +471,7 @@
       "charged burst",
       "incendiary rounds"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -557,7 +557,7 @@
     "amp_mods": [
       "bigger mag"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -592,7 +592,7 @@
       "semi auto",
       "x rounds"
     ],
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -607,7 +607,7 @@
     "icon_file": "assets/icons/amplified-burletta.png",
     "amp_base": "burletta",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -714,7 +714,7 @@
       "full auto",
       "sprint shooting"
     ],
-    "price": 7.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -746,7 +746,7 @@
     "icon_file": "assets/icons/amplified-canto.png",
     "amp_base": "canto",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -798,7 +798,7 @@
       "incendiary rounds",
       "carbine conversion"
     ],
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -816,7 +816,7 @@
       "incendiary rounds",
       "sprint shooting"
     ],
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -833,7 +833,7 @@
     "amp_mods": [
       "sprint shooting"
     ],
-    "price": 5.98,
+    "price": 3.98,
     "variant_name": []
   },
   {
@@ -883,7 +883,7 @@
       "anti weak point",
       "bigger mag"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1015,7 +1015,7 @@
       "semi auto",
       "sprint shooting"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1064,7 +1064,7 @@
     "amp_mods": [
       "incendiary grenades"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1099,7 +1099,7 @@
     "amp_mods": [
       "mag reload"
     ],
-    "price": 5.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1149,7 +1149,7 @@
       "more reload",
       "slug rounds"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1181,7 +1181,7 @@
     "icon_file": "assets/icons/amplified-jupiter.png",
     "amp_base": "jupiter",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1253,7 +1253,7 @@
       "bigger mag",
       "ergonomic bolt"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1288,7 +1288,7 @@
       "scoped",
       "ergonomic bolt"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1305,7 +1305,7 @@
     "amp_mods": [
       "ergonomic bolt"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1438,7 +1438,7 @@
     "amp_mods": [
       "ergonomic bolt"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1456,7 +1456,7 @@
       "ergonomic bolt",
       "anti weak point"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1578,7 +1578,7 @@
       "sprint shooting",
       "incendiary grenades"
     ],
-    "price": 9.98,
+    "price": 8.98,
     "variant_name": []
   },
   {
@@ -1679,7 +1679,7 @@
     "amp_mods": [
       "more reload"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -1784,7 +1784,7 @@
       "more reload",
       "scoped"
     ],
-    "price": 4.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1801,7 +1801,7 @@
     "amp_mods": [
       "scoped"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
