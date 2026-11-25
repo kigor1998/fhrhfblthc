@@ -714,7 +714,7 @@
       "full auto",
       "sprint shooting"
     ],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1181,7 +1181,7 @@
     "icon_file": "assets/icons/amplified-jupiter.png",
     "amp_base": "jupiter",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
@@ -1749,7 +1749,7 @@
     "icon_file": "assets/icons/amplified-renegade.png",
     "amp_base": "renegade",
     "amp_mods": [],
-    "price": 2.98,
+    "price": 1.98,
     "variant_name": []
   },
   {
