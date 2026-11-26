@@ -453,7 +453,7 @@
     "amp_mods": [
       "charged burst"
     ],
-    "price": 5.98,
+    "price": 4.98,
     "variant_name": []
   },
   {
@@ -798,7 +798,7 @@
       "incendiary rounds",
       "carbine conversion"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1181,7 +1181,7 @@
     "icon_file": "assets/icons/amplified-jupiter.png",
     "amp_base": "jupiter",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -3665,6 +3665,7 @@
     "stack_size": 10,
     "ammo_type": "",
     "icon_file": "assets/icons/candleberries.webp",
+    "price": 0.1987,
     "variant_name": []
   },
   {
