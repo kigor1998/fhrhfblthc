@@ -607,7 +607,7 @@
     "icon_file": "assets/icons/amplified-burletta.png",
     "amp_base": "burletta",
     "amp_mods": [],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -661,7 +661,7 @@
       "increased burst",
       "sprint shooting"
     ],
-    "price": 9.98,
+    "price": 8.98,
     "variant_name": []
   },
   {
@@ -679,7 +679,7 @@
       "burst fire",
       "sprint shooting"
     ],
-    "price": 6.98,
+    "price": 7.98,
     "variant_name": []
   },
   {
@@ -714,7 +714,7 @@
       "full auto",
       "sprint shooting"
     ],
-    "price": 1.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
@@ -1559,7 +1559,7 @@
       "high velocity",
       "sprint shooting"
     ],
-    "price": 7.98,
+    "price": 6.98,
     "variant_name": []
   },
   {
@@ -1784,7 +1784,7 @@
       "more reload",
       "scoped"
     ],
-    "price": 3.98,
+    "price": 2.98,
     "variant_name": []
   },
   {
